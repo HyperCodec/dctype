@@ -5,7 +5,9 @@ Tool to infinitely type in a set of discord channels.
 While I have not seen this flag any sort of ratelimit/ban, be aware that it is a possibility. Use at your own risk.
 
 ### How to install
-To install this tool, first ensure that you have the latest Rust/Cargo installed. Then download this repo to a folder, open commandline in that folder, and run `cargo install --path .`. Restart/refresh the terminal before you begin using the tool. 
+To install this tool, first ensure that you have the latest Rust/Cargo installed. Then download this repo to a folder, open commandline in that folder, and run `cargo install --path .`. Restart/refresh the terminal before you begin using the tool.
+
+Alternatively, you can run `cargo build --release` in the folder, then navigate to `target/release` and use that compiled executable if you don't want to entirely install this tool.
 
 ### How to use
 The command syntax is `dctype --channel-list "somefile.txt" --token "discordacountttoken"`

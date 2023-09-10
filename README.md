@@ -1,5 +1,5 @@
 # dctype
-Tool to infinitely type in a set of discord channels.
+Small joke tool to infinitely type in a set of discord channels.
 
 ### Disclaimer
 While I have not seen this flag any sort of ratelimit/ban, be aware that it is a possibility. Use at your own risk.

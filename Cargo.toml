@@ -2,7 +2,7 @@
 name = "discord-typer"
 version = "0.1.0"
 edition = "2021"
-authors = ["HyperCodec"]
+authors = ["Inflectrix"]
 default-run = "dctype"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
